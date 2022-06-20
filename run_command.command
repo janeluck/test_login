@@ -1,0 +1,1 @@
+"/private/var/folders/90/b3npdqzj6ng78y90tzqtkstr0000gn/T/AppTranslocation/11A77D7A-EA46-4069-8318-AB260FBE80A7/d/ WeAutomator3.app/Contents/Resources/app/uitrace/WeTestUITracePython" --script "/Users/jane/Documents/login_0620.wa/main.py" --mode 0
